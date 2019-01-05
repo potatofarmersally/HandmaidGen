@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HandmaidGenerator</string>
+    <string name="nameBox">Name</string>
+    <string name="male_names">Male</string>
+    <string name="female_names">Female</string>
+    <string name="name_tag">Select a Gender</string>
+</resources>
